@@ -7,7 +7,7 @@ tags: [Wild Horses]
 
 # The Allure of Inconsequence
 
-Dear Yogesh,
+You,
 
 You've shared my company for long enough to have realized that I do not care for eventualities. Our strides match, if only infrequently. The ability to temporarily disassociate is so powerful. The curse of free will and denying responsibility - I really wish this were not possible.
 
@@ -23,5 +23,4 @@ We have been imposed upon all our lives. **You** have been imposing me all my li
 
 I inherit you every time. We hate it, but this is who we choose to be, every single time.
 
-Best,  
-Yogesh
+-- Yours
