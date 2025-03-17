@@ -5,8 +5,6 @@ categories: [Wild Horses]
 tags: [Wild Horses]
 ---
 
-# The Allure of Inconsequence
-
 You,
 
 You've shared my company for long enough to have realized that I do not care for eventualities. Our strides match, if only infrequently. The ability to temporarily disassociate is so powerful. The curse of free will and denying responsibility - I really wish this were not possible.
